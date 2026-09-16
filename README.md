@@ -1,11 +1,6 @@
 # startup-MobilidadeUrbana
 Plataforma inteligente para análise de dados de trânsito e apoio à mobilidade urbana.
 
-# Projeto Startup
-
-## Sobre o projeto
-
-Este repositório contém o desenvolvimento do projeto de startup, organizado em cinco etapas principais.
 
 ## Etapas do projeto
 
