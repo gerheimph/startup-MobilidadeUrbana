@@ -13,31 +13,31 @@ Este repositório contém o desenvolvimento do projeto de startup, organizado em
 
 Apresentação geral da proposta e dos principais pontos do projeto.
 
-📄 [Acessar Resumo Executivo](Resumo-Executivo.md)
+ [Acessar Resumo Executivo](Resumo-Executivo.md)
 
 ### 2. Problema e Oportunidade
 
 Descrição do problema identificado e da oportunidade de negócio relacionada.
 
-📄 [Acessar Problema e Oportunidade](Problema-e-Oportunidade.md)
+ [Acessar Problema e Oportunidade](Problema-e-Oportunidade.md)
 
 ### 3. Cliente e Descoberta
 
 Identificação do público-alvo e informações obtidas durante o processo de descoberta do cliente.
 
-📄 [Acessar Cliente e Descoberta](Cliente-e-Descoberta.md)
+ [Acessar Cliente e Descoberta](Cliente-e-Descoberta.md)
 
 ### 4. Proposta de Valor e Mercado
 
 Apresentação da proposta de valor da startup e análise do mercado em que a solução está inserida.
 
-📄 [Acessar Proposta de Valor e Mercado](Proposta-de-Valor-e-Mercado.md)
+ [Acessar Proposta de Valor e Mercado](Proposta-de-Valor-e-Mercado.md)
 
 ### 5. Modelo de Negócio
 
 Descrição de como a startup pretende criar, entregar e capturar valor.
 
-📄 [Acessar Modelo de Negócio](Modelo-de-Negocio.md)
+ [Acessar Modelo de Negócio](Modelo-de-Negocio.md)
 
 ---
 
